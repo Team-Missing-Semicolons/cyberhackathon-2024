@@ -4,7 +4,7 @@ This is project about ..
 
 # Getting started
 
-> Hey! Notice that this project is using [`pnpm`](https://pnpm.io/).
+> Hey! Notice that this project uses [`pnpm`](https://pnpm.io/).
 
 Clone the repository
 
